@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aswinpt2004/DSA_Daily/tree/master/0001-two-sum) |
 ## Hash Table
 |  |
 | ------- |
