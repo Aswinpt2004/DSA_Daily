@@ -25,6 +25,14 @@
 |  |
 | ------- |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aswinpt2004/DSA_Daily/tree/master/3689-maximum-total-subarray-value-i) |
+## String
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/Aswinpt2004/DSA_Daily/tree/master/3612-process-string-with-special-operations-i) |
+## Simulation
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/Aswinpt2004/DSA_Daily/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->ode Topics Start-->
 # LeetCode Topics
 ## Array
