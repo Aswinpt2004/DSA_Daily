@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aswinpt2004/DSA_Daily/tree/master/0001-two-sum) |
+| [1189-maximum-number-of-balloons](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1189-maximum-number-of-balloons) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aswinpt2004/DSA_Daily/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Tree
 |  |
@@ -29,6 +30,7 @@
 ## String
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/Aswinpt2004/DSA_Daily/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
 |  |
@@ -43,6 +45,10 @@
 |  |
 | ------- |
 | [1840-maximum-building-height](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1840-maximum-building-height) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->ode Topics Start-->
 # LeetCode Topics
 ## Array
