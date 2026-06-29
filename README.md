@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aswinpt2004/DSA_Daily/tree/master/0001-two-sum) |
 | [1840-maximum-building-height](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1840-maximum-building-height) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aswinpt2004/DSA_Daily/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aswinpt2004/DSA_Daily/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/Aswinpt2004/DSA_Daily/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
 |  |
