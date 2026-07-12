@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aswinpt2004/DSA_Daily/tree/master/0001-two-sum) |
+| [1331-rank-transform-of-an-array](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1840-maximum-building-height](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1840-maximum-building-height) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aswinpt2004/DSA_Daily/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -15,6 +16,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aswinpt2004/DSA_Daily/tree/master/0001-two-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aswinpt2004/DSA_Daily/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Tree
@@ -49,6 +51,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1840-maximum-building-height](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1840-maximum-building-height) |
 ## Counting
 |  |
