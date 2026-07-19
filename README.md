@@ -33,10 +33,12 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aswinpt2004/DSA_Daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aswinpt2004/DSA_Daily/tree/master/3689-maximum-total-subarray-value-i) |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aswinpt2004/DSA_Daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -88,6 +90,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aswinpt2004/DSA_Daily/tree/master/3312-sorted-gcd-pair-queries) |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aswinpt2004/DSA_Daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aswinpt2004/DSA_Daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->ode Topics Start-->
 # LeetCode Topics
 ## Array
