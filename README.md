@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aswinpt2004/DSA_Daily/tree/master/0001-two-sum) |
+| [1260-shift-2d-grid](https://github.com/Aswinpt2004/DSA_Daily/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1840-maximum-building-height](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1840-maximum-building-height) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -46,6 +47,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/Aswinpt2004/DSA_Daily/tree/main/1260-shift-2d-grid/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Aswinpt2004/DSA_Daily/tree/master/3612-process-string-with-special-operations-i) |
 ## Math
 | Problem Name | Difficulty |
@@ -98,6 +100,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aswinpt2004/DSA_Daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/Aswinpt2004/DSA_Daily/tree/main/1260-shift-2d-grid/) | Easy |
 <!---LeetCode Topics End-->ode Topics Start-->
 # LeetCode Topics
 ## Array
