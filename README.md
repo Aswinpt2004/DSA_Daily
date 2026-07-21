@@ -43,6 +43,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Aswinpt2004/DSA_Daily/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Aswinpt2004/DSA_Daily/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
 | Problem Name | Difficulty |
@@ -104,6 +105,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/Aswinpt2004/DSA_Daily/tree/main/1260-shift-2d-grid/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Aswinpt2004/DSA_Daily/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 <!---LeetCode Topics End-->ode Topics Start-->
 # LeetCode Topics
 ## Array
