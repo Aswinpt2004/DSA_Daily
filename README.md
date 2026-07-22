@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aswinpt2004/DSA_Daily/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/Aswinpt2004/DSA_Daily/tree/main/0088-merge-sorted-array/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Aswinpt2004/DSA_Daily/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1840-maximum-building-height](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1840-maximum-building-height) |
@@ -61,6 +62,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Aswinpt2004/DSA_Daily/tree/main/0088-merge-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1840-maximum-building-height](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1840-maximum-building-height) |
 ## Counting
@@ -109,6 +111,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aswinpt2004/DSA_Daily/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Aswinpt2004/DSA_Daily/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->ode Topics Start-->
 # LeetCode Topics
 ## Array
