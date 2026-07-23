@@ -14,6 +14,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aswinpt2004/DSA_Daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aswinpt2004/DSA_Daily/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aswinpt2004/DSA_Daily/tree/master/3312-sorted-gcd-pair-queries) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Aswinpt2004/DSA_Daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aswinpt2004/DSA_Daily/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -58,6 +59,7 @@
 | [1840-maximum-building-height](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aswinpt2004/DSA_Daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aswinpt2004/DSA_Daily/tree/master/3312-sorted-gcd-pair-queries) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Aswinpt2004/DSA_Daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Aswinpt2004/DSA_Daily/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -115,6 +117,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Aswinpt2004/DSA_Daily/tree/main/0088-merge-sorted-array/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Aswinpt2004/DSA_Daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 <!---LeetCode Topics End-->ode Topics Start-->
 # LeetCode Topics
 ## Array
