@@ -47,6 +47,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aswinpt2004/DSA_Daily/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Aswinpt2004/DSA_Daily/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Aswinpt2004/DSA_Daily/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
 | Problem Name | Difficulty |
@@ -70,6 +71,7 @@
 | [0088-merge-sorted-array](https://github.com/Aswinpt2004/DSA_Daily/tree/main/0088-merge-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1840-maximum-building-height](https://github.com/Aswinpt2004/DSA_Daily/tree/master/1840-maximum-building-height) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Aswinpt2004/DSA_Daily/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Aswinpt2004/DSA_Daily/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -127,6 +129,10 @@
 | ------- | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aswinpt2004/DSA_Daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aswinpt2004/DSA_Daily/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Aswinpt2004/DSA_Daily/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->ode Topics Start-->
 # LeetCode Topics
 ## Array
