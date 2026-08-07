@@ -133,6 +133,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aswinpt2004/DSA_Daily/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Aswinpt2004/DSA_Daily/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Aswinpt2004/DSA_Daily/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->ode Topics Start-->
 # LeetCode Topics
 ## Array
